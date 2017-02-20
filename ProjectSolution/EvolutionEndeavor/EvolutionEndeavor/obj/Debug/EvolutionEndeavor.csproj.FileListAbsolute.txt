@@ -1,0 +1,2 @@
+E:\WebProg\Assign11 - Marshall\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.exe.config
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.exe.config
