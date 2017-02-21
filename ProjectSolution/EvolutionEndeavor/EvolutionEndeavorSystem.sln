@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionEndeavor", "EvolutionEndeavor\EvolutionEndeavor.csproj", "{440760C8-6F45-4AC7-8DF7-B8F3E89C0F18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionEndeavorSystem", "EvolutionEndeavor\EvolutionEndeavorSystem.csproj", "{440760C8-6F45-4AC7-8DF7-B8F3E89C0F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionEndeavorEngine", "EvolutionEndeavorEngine\EvolutionEndeavorEngine.csproj", "{E5515339-94FC-44B6-88BE-C2B1FA0A6DC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{440760C8-6F45-4AC7-8DF7-B8F3E89C0F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440760C8-6F45-4AC7-8DF7-B8F3E89C0F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440760C8-6F45-4AC7-8DF7-B8F3E89C0F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5515339-94FC-44B6-88BE-C2B1FA0A6DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5515339-94FC-44B6-88BE-C2B1FA0A6DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5515339-94FC-44B6-88BE-C2B1FA0A6DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5515339-94FC-44B6-88BE-C2B1FA0A6DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

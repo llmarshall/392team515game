@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EvolutionEndeavorSystem.Properties
+namespace EvolutionEndeavorEngine.Properties
 {
 
 

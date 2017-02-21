@@ -1,2 +1,15 @@
 E:\WebProg\Assign11 - Marshall\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.exe.config
 E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.exe.config
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.exe
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\bin\Debug\EvolutionEndeavor.pdb
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.csprojResolveAssemblyReference.cache
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\MainWindow.g.cs
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\App.g.cs
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor_MarkupCompile.cache
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor_MarkupCompile.lref
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\MainWindow.baml
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.g.resources
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.Properties.Resources.resources
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.csproj.GenerateResource.Cache
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.exe
+E:\NTC\NTC SPRING 2017\Soft Arc\Project Game\ProjectSolution\EvolutionEndeavor\EvolutionEndeavor\obj\Debug\EvolutionEndeavor.pdb
